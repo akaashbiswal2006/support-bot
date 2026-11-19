@@ -1,0 +1,7 @@
+ShopEasy Shipping Information
+
+Standard shipping takes 3-5 business days and costs 4.99 dollars.
+Orders above 50 dollars ship free.
+Express shipping takes 2 days and costs 12.99 dollars.
+We ship within the country only.
+A tracking number is emailed to you once your order ships.
